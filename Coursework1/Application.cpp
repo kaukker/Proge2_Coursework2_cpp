@@ -58,7 +58,7 @@ void Application::Run()
         // Tundmatu käsu korral kuvab teate
         else
         {
-            cout << "Invalid command.\n";
+            cout << "\nInvalid command.\n> ";
         }
     }
 }
@@ -141,26 +141,31 @@ void Application::StartGenerator()
 // Salvestab andmed Faili
 void Application::StoreData()
 {
+    // Kontroll kas andmed on olemas
     if (data.CountAllEntries() == 0)
     {
-        cout << "No entries to store.\n";
+        cout << "No entries.\n";
         return;
     }
 
     string directoryName;
 
     cout << "Type complete path to directory: ";
-    getline(cin, directoryName);
 
-    if (directoryName.length() < 3 || !isalpha(directoryName[0]) ||
-        directoryName[1] != ':' || directoryName[2] != '\\')
+    // Loeb kasutaja sisendi
+    getline(cin, directoryName);    
+
+    // Teisendab string'i kausta asukohaks
+    fs::path directoryPath(directoryName);
+
+    // Kontroll, et sisend oleks korrektne (c:\Folder\Test)
+    if (!directoryPath.is_absolute())
     {
-        cout << "Invalid directory path. Use full path like C:\\Folder.\n";
+        cout << "Invalid directory path.\n";
         return;
     }
 
-    fs::path directoryPath(directoryName);
-
+    // Kontroll, kas on vaja luua uus kaust
     if (!fs::exists(directoryPath))
     {
         string answer;
@@ -168,12 +173,14 @@ void Application::StoreData()
         cout << "Directory does not exist. Create it? yes/no: ";
         getline(cin, answer);
 
+        // Kontroll, kas kausta soovitakse luua
         if (answer != "yes")
         {
             cout << "Store command cancelled.\n";
             return;
         }
 
+        // Proovib luua kausta
         try
         {
             fs::create_directories(directoryPath);
@@ -185,6 +192,7 @@ void Application::StoreData()
         }
     }
 
+    // Kontroll, et tegemist on kaustaga
     if (!fs::is_directory(directoryPath))
     {
         cout << "The path is not a directory.\n";
@@ -193,6 +201,7 @@ void Application::StoreData()
 
     cout << "Files in directory:\n";
 
+    // Prindib välja kõik failid antud kaustas
     try
     {
         for (const auto& file : fs::directory_iterator(directoryPath))
@@ -208,19 +217,24 @@ void Application::StoreData()
 
     string fileName;
 
+    // Küsitakse kasutajalt faili nime
     cout << "Type text file name: ";
     getline(cin, fileName);
 
+    // Kontroll, et kasutaja on midagi sisestanud
     if (fileName.empty())
     {
         cout << "Incorrect file name.\n";
         return;
     }
 
+    // Moodustab täieliku faili asukoha
     fs::path filePath = directoryPath / fileName;
 
+    // Määrab faili avamise režiimi kirjutamiseks
     ios::openmode mode = ios::out;
 
+    // Kontrollib kas fail on juba olemas
     if (fs::exists(filePath))
     {
         string answer;
@@ -230,10 +244,14 @@ void Application::StoreData()
 
         if (answer == "yes")
         {
+            // avab faili lisamisrežiimis
+            // Liidetakse mode'le juurde 
             mode |= ios::app;
         }
         else if (answer == "no")
         {
+            // Tühjendab vana faili sisu enne kirjutamist
+            // Liidetakse mode'le juurde 
             mode |= ios::trunc;
         }
         else
@@ -243,16 +261,21 @@ void Application::StoreData()
         }
     }
 
+    // Avab faili määratud režiimis
+    // või loob uue fili, kui faili ei eksisteeri
     fstream file(filePath, mode);
 
+    // Kontroll kas faili avamine õnnestus
     if (!file)
     {
         cout << "File opening failed.\n";
         return;
     }
 
+    // Salvestab kõik andmed faili
     data.StoreAll(file);
 
+    // Sulgeb faili
     file.close();
 
     cout << "Data stored successfully.\n";
