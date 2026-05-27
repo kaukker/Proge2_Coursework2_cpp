@@ -1,0 +1,414 @@
+hanelised	partlased	mustlagle	A
+hanelised	partlased	Eskimo lagle	E
+hanelised	partlased	Vööthani	E
+hanelised	partlased	punakael-lagle	A
+hanelised	partlased	Väike-lumehani	E
+hanelised	partlased	Kanada lagle	C
+hanelised	partlased	Lumehani	D
+hanelised	partlased	valgepõsk-lagle	A
+hanelised	partlased	hallhani (roohani)	A
+hanelised	partlased	Mustluik	E
+hanelised	partlased	Vaaraohani	E
+hanelised	partlased	rabahani	A
+hanelised	partlased	Mõrsjapart	E
+hanelised	partlased	lühinokk-hani	A
+hanelised	partlased	tundrahani (tundra-rabahani)	A
+hanelised	partlased	Kuupart	E
+hanelised	partlased	suur-laukhani	A
+hanelised	partlased	Puna-rägapart	E
+hanelised	partlased	väike-laukhani	A
+hanelised	partlased	Sõnnpea-sõtkas	D
+hanelised	partlased	Läänesõtkas	D
+hanelised	partlased	kühmnokk-luik	A
+hanelised	partlased	väikeluik	A
+hanelised	partlased	Kübarkoskel	D
+hanelised	partlased	laululuik	A
+hanelised	partlased	ristpart	A
+hanelised	partlased	tulipart	A
+hanelised	partlased	mandariinpart	C
+hanelised	partlased	rägapart	A
+hanelised	partlased	sini-rägapart	A
+hanelised	partlased	luitsnokk-part	A
+hanelised	partlased	rääkspart	A
+hanelised	partlased	viupart	A
+hanelised	partlased	ameerika viupart	A
+hanelised	partlased	sinikael-part	A
+hanelised	partlased	soopart (pahlsaba-part)	A
+hanelised	partlased	piilpart	A
+hanelised	partlased	ameerika piilpart	A
+hanelised	partlased	punanokk-vart	A
+hanelised	partlased	punapea-vart	A
+hanelised	partlased	valgesilm-vart (ruskevart)	A
+hanelised	partlased	lannuvart	A
+hanelised	partlased	tuttvart	A
+hanelised	partlased	merivart	A
+hanelised	partlased	kirjuhahk	A
+hanelised	partlased	kuninghahk	A
+hanelised	partlased	hahk (harilik hahk)	A
+hanelised	partlased	prillvaeras	A
+hanelised	partlased	tõmmuvaeras	A
+hanelised	partlased	siberi tõmmuvaeras	A
+hanelised	partlased	mustvaeras	A
+hanelised	partlased	ida-mustvaeras	A
+hanelised	partlased	aul	A
+hanelised	partlased	sõtkas	A
+hanelised	partlased	väikekoskel (pudukoskel)	A
+hanelised	partlased	jääkoskel	A
+hanelised	partlased	rohukoskel	A
+kanalised	faasanlased 	Faasan	E
+kanalised	faasanlased 	laanepüü	A
+kanalised	faasanlased 	rabapüü	A
+kanalised	faasanlased 	metsis (mõtus)	A
+kanalised	faasanlased 	teder	A
+kanalised	faasanlased 	nurmkana	A
+kanalised	faasanlased 	põldvutt	A
+öösorrilised	öösorlased	öösorr (harilik öösorr)	A
+piiritajalised	piiripääsulased	Suurpiiritaja	A
+piiritajalised	piiripääsulased	piiritaja (piirpääsuke)	A
+piiritajalised	piiripääsulased	randpiiritaja	A
+trapilised	traplased	suurtrapp	A
+trapilised	traplased	väiketrapp	B
+käolised	kägulased	kägu (harilik kägu)	A
+vurilalised	vurillased	stepivuril	B
+tuvilised	tuvilased	kodutuvi	C
+tuvilised	tuvilased	õõnetuvi	A
+tuvilised	tuvilased	kaelustuvi (meigas)	A
+tuvilised	tuvilased	turteltuvi (harilik turteltuvi)	A
+tuvilised	tuvilased	suur-turteltuvi	A
+tuvilised	tuvilased	kaelus-turteltuvi (pargi-turteltuvi)	A
+kurelised	ruiklased	rooruik	A
+kurelised	ruiklased	rukkirääk	A
+kurelised	ruiklased	täpikhuik	A
+kurelised	ruiklased	tait	A
+kurelised	ruiklased	lauk	A
+kurelised	ruiklased	värbhuik	A
+kurelised	ruiklased	väikehuik	A
+kurelised	kurglased	kanada kurg	A
+kurelised	kurglased	neitsikurg	A
+kurelised	kurglased	sookurg	A
+pütilised	pütlased	väikepütt (punakael-pütt)	A
+pütilised	pütlased	hallpõsk-pütt	A
+pütilised	pütlased	tuttpütt	A
+pütilised	pütlased	sarvikpütt	A
+pütilised	pütlased	mustkael-pütt	A
+kurvitsalised	jämejalglased	jämejalg (harilik jämejalg)	A
+kurvitsalised	merisklased	merisk	A
+kurvitsalised	karkjalglased	karkjalg (harilik karkjalg)	A
+kurvitsalised	karkjalglased	naaskelnokk (harilik naaskelnokk)	A
+kurvitsalised	tülllased	kiivitaja (harilik kiivitaja)	A
+kurvitsalised	tülllased	stepikiivitaja	A
+kurvitsalised	tülllased	valgesaba-kiivitaja	A
+kurvitsalised	tülllased	rüüt	A
+kurvitsalised	tülllased	tundrarüüt	A
+kurvitsalised	tülllased	plüü	A
+kurvitsalised	tülllased	liivatüll	A
+kurvitsalised	tülllased	väiketüll	A
+kurvitsalised	tülllased	mustjalg-tüll (meritüll)	A
+kurvitsalised	tülllased	kõrbetüll	A
+kurvitsalised	tülllased	roosterind-tüll (mornel)	A
+kurvitsalised	kurvitslased	väikekoovitaja	A
+kurvitsalised	kurvitslased	suurkoovitaja	A
+kurvitsalised	kurvitslased	vöötsaba-vigle	A
+kurvitsalised	kurvitslased	mustsaba-vigle	A
+kurvitsalised	kurvitslased	kivirullija	A
+kurvitsalised	kurvitslased	suurrüdi (suurrisla)	A
+kurvitsalised	kurvitslased	tutkas	A
+kurvitsalised	kurvitslased	plütt	A
+kurvitsalised	kurvitslased	Älverüdi (älverisla)	A
+kurvitsalised	kurvitslased	kõvernokk-rüdi (kõvernokk-risla)	A
+kurvitsalised	kurvitslased	värbrüdi (värbrisla)	A
+kurvitsalised	kurvitslased	leeterüdi (leeterisla)	A
+kurvitsalised	kurvitslased	soorüdi (soorisla)	A
+kurvitsalised	kurvitslased	merirüdi (meririsla)	A
+kurvitsalised	kurvitslased	väikerüdi (väikerisla)	A
+kurvitsalised	kurvitslased	ruugerüdi (ruugerisla)	A
+kurvitsalised	kurvitslased	kiripugu-rüdi (kiripugu-risla)	A
+kurvitsalised	kurvitslased	hallrüdi (hallrisla)	A
+kurvitsalised	kurvitslased	tundra-neppvigle	A
+kurvitsalised	kurvitslased	metskurvits	A
+kurvitsalised	kurvitslased	mudanepp	A
+kurvitsalised	kurvitslased	rohunepp	A
+kurvitsalised	kurvitslased	tikutaja (taevasikk)	A
+kurvitsalised	kurvitslased	hallkibu (kibutilder)	A
+kurvitsalised	kurvitslased	suur-veetallaja	A
+kurvitsalised	kurvitslased	veetallaja (harilik veetallaja)	A
+kurvitsalised	kurvitslased	puna-veetallaja	A
+kurvitsalised	kurvitslased	vihitaja (jõgitilder)	A
+kurvitsalised	kurvitslased	ameerika vihitaja (ameerika jõgitilder)	A
+kurvitsalised	kurvitslased	metstilder	A
+kurvitsalised	kurvitslased	punajalg-tilder	A
+kurvitsalised	kurvitslased	lammitilder	A
+kurvitsalised	kurvitslased	mudatilder	A
+kurvitsalised	kurvitslased	tumetilder	A
+kurvitsalised	kurvitslased	heletilder	A
+kurvitsalised	jooksurlased	kõnnu-pääsujooksur	A
+kurvitsalised	jooksurlased	stepi-pääsujooksur	A
+kurvitsalised	kajaklased	kaljukajakas	A
+kurvitsalised	kajaklased	vandelkajakas	A
+kurvitsalised	kajaklased	harksaba-kajakas	A
+kurvitsalised	kajaklased	naerukajakas	A
+kurvitsalised	kajaklased	väikekajakas	A
+kurvitsalised	kajaklased	roosakajakas	A
+kurvitsalised	kajaklased	karbuskajakas	A
+kurvitsalised	kajaklased	kalakajakas	A
+kurvitsalised	kajaklased	merikajakas	A
+kurvitsalised	kajaklased	jääkajakas	A
+kurvitsalised	kajaklased	polaarkajakas	A
+kurvitsalised	kajaklased	hõbekajakas	A
+kurvitsalised	kajaklased	koldjalg-hõbekajakas	A
+kurvitsalised	kajaklased	lõuna-hõbekajakas	A
+kurvitsalised	kajaklased	ohhoota hõbekajakas	A
+kurvitsalised	kajaklased	tõmmukajakas	A
+kurvitsalised	kajaklased	naerutiir	A
+kurvitsalised	kajaklased	räusktiir (räusk)	A
+kurvitsalised	kajaklased	tutt-tiir	A
+kurvitsalised	kajaklased	Väiketiir	A
+kurvitsalised	kajaklased	jõgitiir	A
+kurvitsalised	kajaklased	randtiir	A
+kurvitsalised	kajaklased	habeviires	A
+kurvitsalised	kajaklased	valgetiib-viires	A
+kurvitsalised	kajaklased	mustviires	A
+kurvitsalised	änlased	suuränn	A
+kurvitsalised	änlased	laisaba-änn	A
+kurvitsalised	änlased	söödikänn	A
+kurvitsalised	änlased	pikksaba-änn	A
+kurvitsalised	alklased	väikealk (ürr)	A
+kurvitsalised	alklased	lõunatirk	A
+kurvitsalised	alklased	alk	A
+kurvitsalised	alklased	krüüsel	A
+kaurilised	kaurlased	punakurk-kaur	A
+kaurilised	kaurlased	järvekaur	A
+kaurilised	kaurlased	jääkaur	A
+kaurilised	kaurlased	tundrakaur	A
+tormilinnulised	tormipääsulased	põhja-tormipääsu	A
+tormilinnulised	tormilindlased	põhja-tormilind	A
+tormilinnulised	tormilindlased	baleaari tormilind	A 
+toonekurelised	toonekurglased	must-toonekurg	A
+toonekurelised	toonekurglased	valge-toonekurg	A
+suulalised	suulalased	suula	A
+suulalised	kormoranlased (karbaslased)	kormoran (karbas)	A
+pelikanilised	iibislased	tõmmuiibis (läikiibis)	A
+pelikanilised	iibislased	luitsnokk-iibis	A
+pelikanilised	haigurlased	hüüp	A
+pelikanilised	haigurlased	väikehüüp	A
+pelikanilised	haigurlased	Ööhaigur	A
+pelikanilised	haigurlased	Veisehaigur	A
+pelikanilised	haigurlased	hallhaigur	A
+pelikanilised	haigurlased	purpurhaigur	A
+pelikanilised	haigurlased	hõbehaigur	A
+pelikanilised	haigurlased	siidhaigur	A
+pelikanilised	pelikanlased	pelikan (roosapelikan)	A
+haukalised kalakotkaslased	kalakotkas	A
+haukalised haugaslased	Hiid-merikotkas	E
+haukalised haugaslased	raipekotkas	A
+haukalised haugaslased	herilaseviu	A
+haukalised haugaslased	kaeluskotkas	A
+haukalised haugaslased	raisakotkas	A
+haukalised haugaslased	madukotkas	A
+haukalised haugaslased	väike-konnakotkas	A
+haukalised haugaslased	suur-konnakotkas	A
+haukalised haugaslased	kääbuskotkas	A
+haukalised haugaslased	stepikotkas	A
+haukalised haugaslased	Kääpakotkas	A
+haukalised haugaslased	kaljukotkas (maakotkas)	A
+haukalised haugaslased	raudkull (harilik raudkull)	A
+haukalised haugaslased	kanakull (harilik kanakull)	A
+haukalised haugaslased	roo-loorkull	A
+haukalised haugaslased	välja-loorkull	A
+haukalised haugaslased	stepi-loorkull	A
+haukalised haugaslased	soo-loorkull	A
+haukalised haugaslased	puna-harksaba	A
+haukalised haugaslased	must-harksaba	A
+haukalised haugaslased	merikotkas (harilik merikotkas)	A
+haukalised haugaslased	karvasjalg-viu (taliviu)	A
+haukalised haugaslased	stepiviu	A
+haukalised haugaslased	hiireviu	A
+kakulised	loorkaklased	loorkakk	A
+kakulised	kaklased	karvasjalg-kakk (laanekakk)	A
+kakulised	kaklased	kivikakk	B
+kakulised	kaklased	vöötkakk	A
+kakulised	kaklased	värbkakk	A
+kakulised	kaklased	kõrvukräts	A
+kakulised	kaklased	sooräts	A
+kakulised	kaklased	lumekakk	A
+kakulised	kaklased	kassikakk	A
+kakulised	kaklased	kodukakk	A
+kakulised	kaklased	Händkakk	A
+kakulised	kaklased	habekakk	A
+sarvlinnulised	vaenukägulased	vaenukägu (toonetutt)	A
+siniraalised	siniraaglased	siniraag (harilik siniraag)	A
+siniraalised	jäälindlased	jäälind (harilik jäälind)	A
+siniraalised	mesilasenäplased	mesilasenäpp (harilik mesilasenäpp)	A
+rähnilised	rähnlased	väänkael	A
+rähnilised	rähnlased	laanerähn (kolmvarvas-rähn)	A
+rähnilised	rähnlased	tamme-kirjurähn	A
+rähnilised	rähnlased	väike-kirjurähn	A
+rähnilised	rähnlased	suur-kirjurähn	A
+rähnilised	rähnlased	valgeselg-kirjurähn	A
+rähnilised	rähnlased	musträhn	A
+rähnilised	rähnlased	roherähn (meltsas)	A
+rähnilised	rähnlased	hallpea-rähn (hallrähn)	A
+pistrikulised	pistriklased	stepi-tuuletallaja	A
+pistrikulised	pistriklased	tuuletallaja (harilik tuuletallaja)	A
+pistrikulised	pistriklased	punajalg-pistrik	A
+pistrikulised	pistriklased	väikepistrik	A
+pistrikulised	pistriklased	lõopistrik	A
+pistrikulised	pistriklased	stepipistrik	A
+pistrikulised	pistriklased	jahipistrik	A
+pistrikulised	pistriklased	rabapistrik	A
+värvulised	õgijalased	punaselg-õgija	A
+värvulised	õgijalased	Mongoolia kõnnuõgija	A
+värvulised	õgijalased	punasaba-kõnnuõgija	A
+värvulised	õgijalased	mustlauk-õgija	A
+värvulised	õgijalased	hallõgija	A
+värvulised	õgijalased	punapea-õgija	A
+värvulised	peoleolased	peoleo (harilik peoleo)	A
+värvulised	vareslased	laanenäär	A
+värvulised	vareslased	pasknäär	A
+värvulised	vareslased	harakas	A
+värvulised	vareslased	mänsak	A
+värvulised	vareslased	hakk	A
+värvulised	vareslased	künnivares	A
+värvulised	vareslased	mustvares	A
+värvulised	vareslased	hallvares	A
+värvulised	vareslased	ronk (kaaren)	A
+värvulised	siidisabalased	siidisaba (viristaja)	A
+värvulised	tihaslased	musttihane	A
+värvulised	tihaslased	tutt-tihane	A
+värvulised	tihaslased	taigatihane	A
+värvulised	tihaslased	salutihane (sootihane)	A
+värvulised	tihaslased	põhjatihane	A
+värvulised	tihaslased	sinitihane	A
+värvulised	tihaslased	lasuurtihane	A
+värvulised	tihaslased	rasvatihane	A
+värvulised	kukkurtihaslased	kukkurtihane	A
+värvulised	habeklased	roohabekas	A
+värvulised	lõolased	nõmmelõoke	A
+värvulised	lõolased	põldlõoke	A
+värvulised	lõolased	tuttlõoke	A
+värvulised	lõolased	sarviklõoke	A
+värvulised	lõolased	välja-väikelõoke	A
+värvulised	lõolased	stepilõoke	A
+värvulised	pääsulased	kaldapääsuke	A
+värvulised	pääsulased	kivipääsuke	A
+värvulised	pääsulased	suitsupääsuke	A
+värvulised	pääsulased	räästapääsuke	A
+värvulised	pääsulased	roostepääsuke	A
+värvulised	sabatihaslased	sabatihane	A
+värvulised	lehelindlased	mets-lehelind	A
+värvulised	lehelindlased	tuhk-lehelind	A
+värvulised	lehelindlased	vööt-lehelind	A
+värvulised	lehelindlased	kuld-lehelind	A
+värvulised	lehelindlased	siberi lehelind	A
+värvulised	lehelindlased	tõmmu-lehelind	A
+värvulised	lehelindlased	salu-lehelind	A
+värvulised	lehelindlased	väike-lehelind (silksolk)	A
+värvulised	lehelindlased	nõlva-lehelind	A
+värvulised	lehelindlased	põhja-lehelind	A
+värvulised	roolindlased	rästas-roolind	A
+värvulised	roolindlased	tarna-roolind	A
+värvulised	roolindlased	kõrkja-roolind	A
+värvulised	roolindlased	padu-roolind	A
+värvulised	roolindlased	aed-roolind	A
+värvulised	roolindlased	tiigi-roolind	A
+värvulised	roolindlased	soo-roolind (putke-roolind)	A
+värvulised	roolindlased	väike-käosulane	A
+värvulised	roolindlased	leet-käosulane	A
+värvulised	roolindlased	käosulane (harilik käosulane)	A
+värvulised	ritsiklindlased	jõgi-ritsiklind	A
+värvulised	ritsiklindlased	roo-ritsiklind	A
+värvulised	ritsiklindlased	võsa-ritsiklind	A
+värvulised	põõsalindlased	mustpea-põõsalind	A
+värvulised	põõsalindlased	aed-põõsalind	A
+värvulised	põõsalindlased	vööt-põõsalind	A
+värvulised	põõsalindlased	väike-põõsalind	A
+värvulised	põõsalindlased	kõrbe-põõsalind	A
+värvulised	põõsalindlased	Punakurk-põõsalind	A
+värvulised	põõsalindlased	pruunselg-põõsalind	A
+värvulised	pöialpoislased	lääne-pöialpoiss	A
+värvulised	pöialpoislased	pöialpoiss	A
+värvulised	käbliklased	käblik (harilik käblik)	A
+värvulised	puukoristajalased	puukoristaja (harilik puukoristaja)	A
+värvulised	porlased	porr (harilik porr)	A
+värvulised	kuldnoklased	roosa-kuldnokk	A
+värvulised	kuldnoklased	kuldnokk (harilik kuldnokk)	A
+värvulised	rästaslased	laulurästas	A
+värvulised	rästaslased	hoburästas	A
+värvulised	rästaslased	vainurästas	A
+värvulised	rästaslased	musträstas	A
+värvulised	rästaslased	hallrästas (paskrästas)	A
+värvulised	rästaslased	kaelusrästas	A
+värvulised	rästaslased	mustpugu-rästas	A
+värvulised	rästaslased	ruskerästas	A
+värvulised	kärbsenäplased	hall-kärbsenäpp	A
+värvulised	kärbsenäplased	punarind	A
+värvulised	kärbsenäplased	sinirind	A
+värvulised	kärbsenäplased	ööbik (harilik ööbik)	A
+värvulised	kärbsenäplased	rubiinööbik	A
+värvulised	kärbsenäplased	sinisaba (harilik sinisaba)	A
+värvulised	kärbsenäplased	väike-kärbsenäpp	A
+värvulised	kärbsenäplased	must-kärbsenäpp	A
+värvulised	kärbsenäplased	kaelus-kärbsenäpp	A
+värvulised	kärbsenäplased	must-lepalind	A
+värvulised	kärbsenäplased	lepalind (aed-lepalind)	A
+värvulised	kärbsenäplased	kivisiirak	A
+värvulised	kärbsenäplased	kadakatäks	A
+värvulised	kärbsenäplased	euroopa kaelustäks	A
+värvulised	kärbsenäplased	niidu-kaelustäks	A
+värvulised	kärbsenäplased	ida-kaelustäks	A
+värvulised	kärbsenäplased	kivitäks (harilik kivitäks)	A
+värvulised	kärbsenäplased	liiv-kivitäks	A
+värvulised	kärbsenäplased	kõrbe-kivitäks	A
+värvulised	kärbsenäplased	nunn-kivitäks	A
+värvulised	vesipaplased	vesipapp (harilik vesipapp)	A
+värvulised	varblaslased	põldvarblane	A
+värvulised	varblaslased	koduvarblane	A
+värvulised	raatlased	mägiraat	A
+värvulised	raatlased	siberi raat	A
+värvulised	raatlased	mustkurk-raat	A
+värvulised	raatlased	võsaraat	A
+värvulised	västriklased	hänilane (lambahänilane)	A
+värvulised	västriklased	idahänilane	A
+värvulised	västriklased	kuldhänilane	A
+värvulised	västriklased	jõgivästrik	A
+värvulised	västriklased	linavästrik	A
+värvulised	västriklased	niidukiur (stepi-niidukiur)	A
+värvulised	västriklased	Mongoolia kiur	A
+värvulised	västriklased	nõmmekiur	A
+värvulised	västriklased	sookiur	A
+värvulised	västriklased	metskiur	A
+värvulised	västriklased	taigakiur	A
+värvulised	västriklased	tundrakiur (punakurk-kiur)	A
+värvulised	västriklased	mägikiur	A
+värvulised	västriklased	randkiur	A
+värvulised	vintlased	metsvint	A
+värvulised	vintlased	põhjavint	A
+värvulised	vintlased	suurnokk-vint (suurnokk)	A
+värvulised	vintlased	männileevike	A
+värvulised	vintlased	leevike (harilik leevike)	A
+värvulised	vintlased	kõrbeleevike	A
+värvulised	vintlased	karmiinleevike (harilik karmiinleevike)	A
+värvulised	vintlased	rohevint	A
+värvulised	vintlased	mägi-kanepilind	A
+värvulised	vintlased	kanepilind	A
+värvulised	vintlased	urvalind	A
+värvulised	vintlased	lõuna-urvalind	A
+värvulised	vintlased	hele-urvalind	A
+värvulised	vintlased	männi-käbilind	A
+värvulised	vintlased	kuuse-käbilind	A
+värvulised	vintlased	vööt-käbilind	A
+värvulised	vintlased	ohakalind	A
+värvulised	vintlased	koldvint	A
+värvulised	vintlased	siisike	A
+värvulised	tsiitsitajalased	lapi tsiitsitaja (keltsalind)	A
+värvulised	tsiitsitajalased	hangelind	A
+värvulised	tsiitsitajalased	halltsiitsitaja	A
+värvulised	tsiitsitajalased	talvike	A
+värvulised	tsiitsitajalased	põldtsiitsitaja	A
+värvulised	tsiitsitajalased	väiketsiitsitaja	A
+värvulised	tsiitsitajalased	põhjatsiitsitaja	A
+värvulised	tsiitsitajalased	kuldtsiitsitaja	A
+värvulised	tsiitsitajalased	mustpea-tsiitsitaja	A 
+värvulised	tsiitsitajalased	punapea-tsiitsitaja	A 
+värvulised	tsiitsitajalased	rootsiitsitaja	A
+värvulised	sidriklased	rebassidrik	A
